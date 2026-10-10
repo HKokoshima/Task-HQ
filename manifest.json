@@ -9,7 +9,7 @@
   "theme_color": "#0b234a",
   "icons": [
     {
-      "src": "ICON.png",
+      "src": "TASKHQ_ICON.png",
       "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
