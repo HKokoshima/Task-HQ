@@ -1,0 +1,18 @@
+{
+  "name": "TASK HQ",
+  "short_name": "TASK HQ",
+  "description": "Personal task management headquarters",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b234a",
+  "theme_color": "#0b234a",
+  "icons": [
+    {
+      "src": "ICON.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
